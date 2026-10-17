@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="banner.png" width="70%">
-</p>
+<img src="banner.png" width="70%">
+
 ### Adaptive Quantum Receiver for Rocket PCM Telemetry
 
 STEER-LINK is an experimental six-qubit quantum receiver designed to decode telemetry data represented as six-bit Pulse Code Modulation (PCM) residual words. It combines CNOT gates, adaptive rotations, mid-circuit measurements, and classical feed-forward.
