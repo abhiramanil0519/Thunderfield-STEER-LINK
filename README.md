@@ -7,28 +7,6 @@ The architecture combines nearest-neighbour CNOT gates with measurement-conditio
 
 The project implements a Qiskit-based receiver, a NumPy reference model, ideal and noisy simulation workflows, IBM Quantum hardware execution, and performance visualization.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Proposed Architecture](#proposed-architecture)
-- [Circuit Diagram](#circuit-diagram)
-- [Level 1: STEER-LINK Cell](#level-1-steer-link-cell)
-- [Level 2: Complete Receiver](#level-2-complete-receiver)
-- [Adaptive Angle ROM](#adaptive-angle-rom)
-- [Classical Channel Model](#classical-channel-model)
-- [Circuit Resources](#circuit-resources)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Execution](#execution)
-- [Performance Evaluation](#performance-evaluation)
-- [Results and Analysis](#results-and-analysis)
-- [Output Files](#output-files)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [Acknowledgments and Third-Party Resources](#acknowledgments-and-third-party-resources)
-- [References](#references)
 
 ## Overview
 
