@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="70%" alt="PCM telemetry format showing bits, words, prime frames, and subframes">
+  <img src="banner.png" width="70%">
 </p>
 ### Adaptive Quantum Receiver for Rocket PCM Telemetry
 
